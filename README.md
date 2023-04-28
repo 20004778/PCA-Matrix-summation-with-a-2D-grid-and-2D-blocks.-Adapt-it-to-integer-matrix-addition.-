@@ -204,9 +204,11 @@ int main(int argc, char **argv)
 ```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75236145/235047563-7c88f749-3fc9-4c20-991c-965824193bfc.png)
+```python
 Matrix initialization : 6.338138 sec.
 Sum matrix on Host : 0.884061 sec.
 Sum matrix on GPU2D : 0.012146 sec.
+```
 
 ## Result:
 Integer Matrix summation with a 2D-grid and 2D-blocks is performed and the best execution configuration is found successfully.
