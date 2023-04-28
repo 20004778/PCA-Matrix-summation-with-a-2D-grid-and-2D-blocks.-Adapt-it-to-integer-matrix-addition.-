@@ -29,9 +29,9 @@ Step 8 :
 Save and Run the Program.
 
 ## Program:
-Developed By : SURYA R
-Register No : 212220230052
-
+### Developed By : SURYA R
+### Register No : 212220230052
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -201,7 +201,7 @@ int main(int argc, char **argv)
 
     return (0);
 }
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75236145/235047563-7c88f749-3fc9-4c20-991c-965824193bfc.png)
 Matrix initialization : 6.338138 sec.
